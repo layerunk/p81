@@ -1,0 +1,12 @@
+.bgg {
+	background-image: url("bg1.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#can{
+	border-width: 5px;
+	border-style: dashed; 
+	background-color: white;
+    border-color: black; 
+}
